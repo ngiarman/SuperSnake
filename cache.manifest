@@ -1,0 +1,26 @@
+CACHE MANIFEST
+Main.js
+phaser.js
+img/background_darkblue.png
+img/background_darkbrown_zigzag.png
+img/background_darkgray_grid.png
+img/background_darkgreen_oldcanvas.png
+img/background_darkred_grid.png
+img/background_gray.png
+img/background_lightblue_mesh.png
+img/background_purple_pixels.png
+img/apple.png
+img/snake_blue.png
+img/snake_red.png
+img/snake_orange.png
+img/snake_green.png
+img/gameover.png
+img/gameover_white.png
+img/play.png
+img/play_white.png
+sounds/click_one.mp3
+sounds/eating.mp3
+sounds/gameover.mp3
+
+NETWORK:
+*

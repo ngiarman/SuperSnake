@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "phonegap.snake"
+        version   = "1.22">
+    
+    <name> Super Snake </name>
+    
+    <description> A silly Snake Game. By Nick Giarman and TK Dvandian 2014. </description>
+    
+    <icon src="icon.png" />
+    <icon src="icon.png" gap:platform="android"/>
+
+</widget>
+
+
+
+
+
